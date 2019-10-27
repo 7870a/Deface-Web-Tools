@@ -13,3 +13,4 @@ cara menginstal tools:
 selamat mencoba
 catatan:
 hanya mendeface web vuln
+gunaka tools dengan bijak ok
