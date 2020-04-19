@@ -48,7 +48,7 @@ echo $green
 echo --------------------------------
 echo made by :7870a
 echo group   :The Black Paper
-echo youtube :78 komputer
+echo youtube :belum ada
 echo github  :https://github.com/7870a
 echo ---------------------------------
 echo $yellow
