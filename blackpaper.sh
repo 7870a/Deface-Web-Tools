@@ -73,8 +73,7 @@ echo http://chillibitez.co.za (new)
 echo http://totemafrica.com (new)
 echo $red
 echo dijamin semua vuln sudah dites semua
-echo 
-echo $yellow
+
 read -p "target=> " target
 clear
 echo
