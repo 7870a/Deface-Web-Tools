@@ -1,7 +1,7 @@
 #blackpaper
 #by 7870a
 green="\033[32;1m"
-yellow="\033[33;1m"
+yellow="33[33;1m"
 indigo="\033[34;1m"
 red="\033[35;1m"
 purple="\033[37;1m"
@@ -43,6 +43,7 @@ echo  $yellow
 echo "loading.............";
 sleep 0.1;
 clear
+echo $yellow
 figlet -f future "The Black Paper"
 echo $green
 echo --------------------------------
