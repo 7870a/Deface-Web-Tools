@@ -1,7 +1,7 @@
 #blackpaper
 #by 7870a
 green="\033[32;1m"
-yellow="33[33;1m"
+yellow="\033[36;1m"
 indigo="\033[34;1m"
 red="\033[35;1m"
 purple="\033[37;1m"
@@ -45,6 +45,7 @@ echo "loading.............";
 sleep 0.1;
 clear
 echo $yellow
+clear
 figlet -f future "The Black Paper"
 echo $green
 echo --------------------------------
@@ -52,7 +53,7 @@ echo made by :7870a
 echo group   :The Black Paper
 echo youtube :belum ada
 echo github  :https://github.com/7870a
-echo Deface Web Tools 2.0
+echo Deface Web Tools v2.0
 echo ---------------------------------
 echo $yellow
 read -p "nama samaran=> " name
@@ -70,7 +71,7 @@ echo http://colourfactory.co.za (new)
 echo http://www.aaglcapetown2013.org.za (new)
 echo http://chillibitez.co.za (new)
 echo http://totemafrica.com (new)
-echo $cyan
+echo $red
 echo dijamin semua vuln sudah dites semua
 echo 
 echo $yellow
