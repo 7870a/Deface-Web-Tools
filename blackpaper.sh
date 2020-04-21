@@ -8,6 +8,7 @@ purple="\033[37;1m"
 cyan="\033[36;1m"                      white="\033[39;1m"
 pkg install toilet -y
 pkg install curl -y
+pkg install figlet -y
 bash jr.sh
 echo
 echo  $yellow
