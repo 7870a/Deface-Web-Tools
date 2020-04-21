@@ -69,6 +69,7 @@ echo http://windmillsandporcupines.co.za
 echo http://colourfactory.co.za (new)
 echo http://www.aaglcapetown2013.org.za (new)
 echo http://chillibitez.co.za (new)
+echo http://totemafrica.com (new)
 echo $cyan
 echo dijamin semua vuln sudah dites semua
 echo 
