@@ -5,6 +5,8 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
+pkg install figlet -y
+pkg install curl -y
 echo  $green
 echo "blackpaper.............";
 sleep 0.1;
@@ -14,7 +16,7 @@ echo
 echo
 echo
 echo
-echo
+figlet -f future "The Black Paper"
 echo ------------------------------
 echo Team:The Black Paper
 echo Creator:7870a
@@ -41,6 +43,7 @@ clear
 echo Loading
 clear
 echo Simpan SC Di Memory Internal Di Luar Folder
+echo $red
 read -p "Nama Script=>"  script
 echo $cyan
 curl -T /storage/emulated/0/$script $target
