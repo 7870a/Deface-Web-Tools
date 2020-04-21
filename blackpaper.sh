@@ -50,6 +50,7 @@ echo made by :7870a
 echo group   :The Black Paper
 echo youtube :belum ada
 echo github  :https://github.com/7870a
+echo Deface Web Tools 2.0
 echo ---------------------------------
 echo $yellow
 read -p "nama samaran=> " name
@@ -60,15 +61,15 @@ echo $yellow
 echo simpan script di memory internal diluar folder
 echo $green
 echo contoh target:
-echo http://contsol.co.za
 echo http://centraltech.co.za
 echo http://crimsonmonkeyweb.com
-echo http://kevinbutho.com
-echo http://prorepafrica.com
-echo http://xposurephotography.co.za
 echo http://windmillsandporcupines.co.za
-echo http://tcnig.co.za
-echo http://contsol.co.za recomended
+echo http://colourfactory.co.za (new)
+echo http://www.aaglcapetown2013.org.za (new)
+echo http://chillibitez.co.za (new)
+echo $cyan
+echo dijamin semua vuln sudah dites semua
+echo 
 echo $yellow
 read -p "target=> " target
 clear
