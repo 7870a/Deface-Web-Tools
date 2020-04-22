@@ -1,5 +1,5 @@
-# Deface-Web-Tools
-<marquee><h1>Deface-Web-Tools</h1></marquee>
+<h1>Deface-Web-Tools</h1>
+<h3>
 cara menginstal tools:<br>
 1.pkg uptade<br>
 2.pkg upgrade<br>
@@ -20,3 +20,4 @@ untuk mengupdate tools ketik sh update.sh<br>
 untuk menguninstall tools ketik sh uninstall.sh<br>
 -----------------------------------------------------------------------------------<br>
 Terimakasih
+</h3>
