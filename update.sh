@@ -19,4 +19,4 @@ git clone https://github.com/7870a/Deface-Web-Tools
 cd Deface-Web-Tools
 clear
 echo update selesai
-echo ketik (cd) untuk menyempurnakan update
+echo ketik cd untuk menyempurnakan update
