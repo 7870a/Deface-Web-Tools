@@ -3,7 +3,7 @@
 cara menginstal tools:<br>
 1.pkg uptade<br>
 2.pkg upgrade<br>
-3.pkg install figlet<br>
+3.pkg install sh<br>
 4.pkg install curl<br>
 5.pkg install git<br>
 6.git clone https://github.com/7870a/Deface-Web-Tools.git<br>
