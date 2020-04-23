@@ -37,6 +37,10 @@ echo "http://centraltech.co.za"
 echo $cyan
 echo "http://windmillsandporcupines.co.za"
 echo $green
+echo "http://mpark.co.za new"
+echo $cyan
+echo "http://ratia.co.za"
+echo $green
 echo eksekusi target
 read -p "Target=>"  target
 clear
