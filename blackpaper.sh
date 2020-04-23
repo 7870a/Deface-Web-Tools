@@ -36,7 +36,7 @@ echo $red
 echo "http://centraltech.co.za"
 echo $cyan
 echo "http://windmillsandporcupines.co.za"
-echo $green
+echo $red
 echo "http://mpark.co.za new"
 echo $cyan
 echo "http://ratia.co.za new"
