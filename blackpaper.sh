@@ -21,7 +21,7 @@ echo ------------------------------
 echo Team:The Black Paper
 echo Creator:7870a
 echo github:https://github.com/7870a
-echo Deface-Web-Tools v2.0
+echo Deface-Web-Tools v3.0
 echo ------------------------------
 read -p "Nama Samaran:"  ta
 clear
