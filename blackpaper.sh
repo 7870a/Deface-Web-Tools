@@ -22,7 +22,7 @@ echo ------------------------------ | lolcat
 echo Team:The Black Paper | lolcat
 echo Creator:7870a | lolcat
 echo github:https://github.com/7870a | lolcat
-echo Deface-Web-Tools v3.0 | lolcat
+echo Deface-Web-Tools v4.0 | lolcat
 echo ------------------------------ | lolcat
 read -p "Nama Samaran:"  ta
 clear
