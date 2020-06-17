@@ -1,3 +1,4 @@
+figlet uninstall | lolcat
 echo Loading
 sleep 2.5;
 echo 10%
@@ -15,3 +16,5 @@ sleep 2.9
 clear
 cd
 rm -rf Deface-Web-Tools
+echo uninstall selesai | lolcat
+echo ketik cd untuk menyempurnakan | lolcat
