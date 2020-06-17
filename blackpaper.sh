@@ -17,12 +17,13 @@ echo
 echo
 echo
 echo
-figlet BP | lolcat
+figlet D.W.T | lolcat
 echo ------------------------------ | lolcat
-echo Team:The Black Paper | lolcat
-echo Creator:7870a | lolcat
+echo Nama Tools:Deface-Web-Tools | lolcat
+echo Team:The Black Paper Indonesia | lolcat
+echo Tools Created By:7870a | lolcat
 echo github:https://github.com/7870a | lolcat
-echo Deface-Web-Tools v4.0 | lolcat
+echo Versi:4.1 | lolcat
 echo ------------------------------ | lolcat
 read -p "Nama Samaran:"  ta
 clear
@@ -40,12 +41,10 @@ echo "http://windmillsandporcupines.co.za"
 echo $red
 echo "http://mpark.co.za new"
 echo $cyan
-echo "http://ratia.co.za new"
+echo "http://ratia.co.za "
 echo $green
 echo eksekusi target
 read -p "Target=>"  target
-clear
-echo Loading
 clear
 echo Simpan SC Di Memory Internal Di Luar Folder
 echo $red
@@ -57,5 +56,5 @@ echo $red
 echo [$target~Hacked] | lolcat
 echo Target Has Been Hacked By $ta on | lolcat
 date | lolcat
-echo $green
-echo terimakasih $ta telah menggunakan tools ini
+
+echo terimakasih $ta telah menggunakan tools ini | lolcat
