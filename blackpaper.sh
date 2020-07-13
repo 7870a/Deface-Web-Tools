@@ -16,7 +16,7 @@ echo
 echo
 echo
 echo $cyan
-figlet D.W.T
+figlet D.W.T | lolcat
 echo ------------------------------
 echo Nama Tools:Deface-Web-Tools Premium
 echo Team:The Black Paper Indonesia
