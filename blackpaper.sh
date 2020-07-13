@@ -5,9 +5,8 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
-pkg install curl -y
-pkg install ruby -y
-gem install lolcat
+
+
 echo  $green
 echo "The black paper.............";
 sleep 0.9;
@@ -35,9 +34,13 @@ else
 echo Password Salah
 exit
 fi
+echo $green
+figlet BP
+echo $cyan
 echo ----------------------------------------------
 echo 1 Deface Biasa
 echo 2 Deface Dengan SC Deface BP
+echo 3 Install Paket
 echo ----------------------------------------------
 echo  Jawabanmu:
 read f
@@ -53,6 +56,12 @@ sh b.sh
 exit
 fi
 
+if [ $f = "3" ]
+then 
+cd tul
+sh c.sh
+exit
+fi
 
 
 clear
