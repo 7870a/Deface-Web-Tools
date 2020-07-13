@@ -82,6 +82,8 @@ echo $cyan
 echo "http://ratia.co.za "
 echo $red
 echo "http://itsengineering.co.za new"
+echo $cyan
+echo "http://uzingela.co.za new"
 echo $green
 echo eksekusi target
 read -p "Target=>"  target
