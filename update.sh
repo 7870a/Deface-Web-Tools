@@ -2,19 +2,19 @@ clear
 echo Loading | lolcat
 sleep 2.5;
 clear
-echo [###          ]
+echo [###__________]
 sleep 0.9;
 clear
-echo [#####        ]
+echo [#####________]
 sleep 1.9;
 clear
-echo [#######      ]
+echo [#######______]
 sleep 1.7;
 clear
-echo [#########    ]
+echo [#########____]
 sleep 3.9;
 clear
-echo [############ ]
+echo [############_]
 sleep 2.5;
 clear
 echo [#############]
