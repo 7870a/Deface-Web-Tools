@@ -7,26 +7,6 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 
 clear
-echo Masukan Script Yang ingin dimasukan
-echo -----------------------------------
-echo 1 The Black Paper
-echo 2 H
-echo -----------------------------------
-echo pilihanmu
-read n
-
-if [ $n = "1" ]
-then
-clear
-fi
-
-if [ $n = "2"]
-then
-cd ..
-cd j
-sh j.sh
-exit
-fi
 
 echo Masukan Target
 echo contoh target
