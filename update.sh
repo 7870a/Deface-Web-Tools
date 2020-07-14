@@ -1,16 +1,23 @@
+clear
 echo Loading | lolcat
 sleep 2.5;
-echo 15% | lolcat
+clear
+echo [###          ]
 sleep 0.9;
-echo 20% | lolcat
+clear
+echo [#####        ]
 sleep 1.9;
-echo 39% | lolcat
+clear
+echo [#######      ]
 sleep 1.7;
-echo 60% | lolcat
+clear
+echo [#########    ]
 sleep 3.9;
-echo 79% | lolcat
+clear
+echo [############ ]
 sleep 2.5;
-echo 99% | lolcat
+clear
+echo [#############]
 sleep 2.9
 clear
 echo Mengupdate | lolcat
