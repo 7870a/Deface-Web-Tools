@@ -31,7 +31,7 @@ if [ $p = "BPDWT" ]
 then
 clear
 else
-xdg-open https://api.whatsapp.com/send?phone=6287855150590&text=mastah%20apa%20password%20tools%20DWT
+xdg-open https://api.whatsapp.com/send?phone=6287855150590&text=Mastah,Apa%20password%20tools%20DWT?&source=&data=&app_absent=
 echo Password Salah
 exit
 fi
