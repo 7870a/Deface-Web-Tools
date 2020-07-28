@@ -32,6 +32,8 @@ then
 clear
 else
 echo Password Salah
+sleep 2
+xdg-open https://api.whatsapp.com/send?phone=6287855150590&text=mastah%20apa%20password%20tools%20DWT
 exit
 fi
 echo $green
