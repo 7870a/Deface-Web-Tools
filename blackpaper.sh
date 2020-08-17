@@ -31,7 +31,7 @@ if [ $p = "BPDWT" ]
 then
 clear
 cd tul
-sh bp.sh
+sh bc.sh
 exit
 else
 xdg-open https://1theblackpaper.blogspot.com/p/password-tools-dwt.html
