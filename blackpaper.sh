@@ -22,7 +22,7 @@ echo Nama Tools:Deface-Web-Tools Premium
 echo Team:The Black Paper Indonesia
 echo Tools Created By:7870a 
 echo github:https://github.com/7870a
-echo Versi:6.0
+echo Versi:7.0
 echo ------------------------------
 echo $red
 echo Tuliskan Password Anda
