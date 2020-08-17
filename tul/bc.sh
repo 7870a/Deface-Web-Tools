@@ -7,7 +7,8 @@ cd ..
 rm -rf blackpaper.sh
 cd tul
 mv blackpaper.sh ..
-echo "ketik cd untuk menyempurnakan proses"
+cd ..
+sh blackpaper.sh
 exit
 
 else
