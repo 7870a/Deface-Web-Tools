@@ -24,9 +24,11 @@ echo "http://mpark.co.za"
 echo $cyan
 echo "http://ratia.co.za "
 echo $red
-echo "http://itsengineering.co.za new"
+echo "http://itsengineering.co.za"
 echo $cyan
-echo "http://uzingela.co.za new"
+echo "http://uzingela.co.za"
+echo $red
+echo "http://cmweb.co.za new"
 echo $green
 read -p "Target=>"  target
 echo loading......
