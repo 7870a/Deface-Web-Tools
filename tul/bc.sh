@@ -5,6 +5,7 @@ if [ $f = "y" ]
 then
 cd ..
 rm -rf blackpaper.sh
+cd tul
 mv blackpaper.sh ..
 echo "ketik cd untuk menyempurnakan proses"
 exit
