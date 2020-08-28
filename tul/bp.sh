@@ -7,6 +7,7 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 
+clear
 echo $green
 figlet D.W.T | lolcat
 echo $cyan
@@ -16,6 +17,7 @@ echo Team:The Black Paper Indonesia
 echo Tools Created By:7870a 
 echo github:https://github.com/7870a
 echo Versi:7.0
+echo $red
 echo ------------------------------
 echo 1 Deface Biasa
 echo 2 Deface Dengan SC Deface BP
